@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Sản Phẩm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Danh Sách Sản Phẩm</h1>
+
+    <button onclick="toggleCart()">🛒 Giỏ Hàng (<span id="cart-count">0</span>)</button>
+    <div id="cart" class="hidden">
+        <h2>Giỏ Hàng</h2>
+        <div id="cart-items"></div>
+        <p><strong>Tổng tiền: <span id="total-price">0</span> VND</strong></p>
+        <button onclick="checkout()">Thanh Toán</button>
+    </div>
+
+    <div id="product-list"></div>
+
+    <script src="index.js"></script>
+</body>
+</html>

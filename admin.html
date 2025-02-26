@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Quản Lý Sản Phẩm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Quản Lý Sản Phẩm</h2>
+    
+    <button onclick="showAddForm()">➕ Thêm Sản Phẩm</button>
+
+    <div id="add-product-form" class="hidden">
+        <h3>Thêm Sản Phẩm</h3>
+        <input type="text" id="name" placeholder="Tên sản phẩm">
+        <input type="text" id="price" placeholder="Giá sản phẩm">
+        <input type="text" id="image" placeholder="URL hình ảnh">
+        <button onclick="addProduct()">Thêm</button>
+    </div>
+
+    <h3>Danh Sách Sản Phẩm</h3> 
+    <div id="product-list"></div>
+
+    <script src="js/admin.js"></script>
+</body>
+</html>

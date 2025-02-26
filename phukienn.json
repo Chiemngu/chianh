@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Mau3",
+    "price": "1 triệu VND",
+    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-ez71s0smwtkvf1"
+  },
+  {
+    "id": 2,
+    "name": "Mau2",
+    "price": "3 triệu VND",
+    "image": "https://down-vn.img.susercontent.com/file/4b6044d0f3fe35b9f5cb3cd49aa30012"
+  },
+  {
+    "id": 3,
+    "name": "Mau3",
+    "price": "1 triệu VND",
+    "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/442/971/products/vn-11134207-7qukw-lfh44di3m5j817-1684083674253.jpg?v=1684086521553"
+  },
+  {
+    "id": 4,
+    "name": "Mau4",
+    "price": "950 nghìn VND",
+    "image": "https://file.hstatic.net/1000231532/file/_tot_di_kem_nhieu_kieu_dau_noi_phu_kien_danh_rieng_cho_mo_hinh_gundam__f42d93f2f0634f5c9556e88cfa7fca5d.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mau5",
+    "price": "2 triệu VND",
+    "image": "https://down-vn.img.susercontent.com/file/c3268fc750fa4a067f66e66a4ec60552"
+  },
+  {
+    "id": 6,
+    "name": "Mau6",
+    "price": "2 triệu VND",
+    "image": "https://img.alicdn.com/imgextra/i3/2207100516109/O1CN01SiQL761uzyBmG3yvU_!!2207100516109.jpg_400x400.jpg_.webp"
+  },
+  {
+    "id": 7,
+    "name": "Mau7",
+    "price": "3 triệu VND",
+    "image": "https://product.hstatic.net/1000213518/product/ma8b_1d8f6c65bf2347fcbf3efae62426d39e_master.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mau8",
+    "price": "5 triệu VND",
+    "image": "https://cf.shopee.vn/file/f4e0c30e217cca986ad7a66dde5fbb62"
+  },
+  {
+    "id": 9,
+    "name": "Mau9",
+    "price": "3 triệu VND",
+    "image": "https://down-vn.img.susercontent.com/file/cd3ce886a4195c08f2b57d357a6b6b76"
+  },
+  {
+    "id": 10,
+    "name": "Mau10",
+    "price": "6 triệu VND",
+    "image": "https://cf.shopee.vn/file/33258ad678c066a6a6ad32d9fe8b17ec"
+  }
+]
+  

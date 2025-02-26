@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Mau1",
+    "price": "10.2 triệu VND",
+    "image": "https://azgundam.com/wp-content/uploads/2018/09/MG-FREEDOM-GUNDAM-2.0-5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mau2",
+    "price": "13 triệu VND",
+    "image": "https://noidia.b-cdn.net/thumbnails/688815442201.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mau3",
+    "price": "15 triệu VND",
+    "image": "https://giftstore.vn/wp-content/uploads/2024/06/Mo-Hinh-Lap-Rap-Gundam-Red-Astray-Kai-Mg-1100-Hang-Jijia-TQ-ft.webp"
+  },
+  {
+    "id": 4,
+    "name": "Mau4",
+    "price": "950 nghìn VND",
+    "image": "https://down-vn.img.susercontent.com/file/717c891aeea6077064fec8a5d70c79d0"
+  },
+  {
+    "id": 5,
+    "name": "Mau5",
+    "price": "20 triệu VND",
+    "image": "https://i.pinimg.com/originals/7e/3d/41/7e3d4170bf253165c126bfa4be15a7c2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mau6",
+    "price": "12 triệu VND",
+    "image": "https://file.hstatic.net/200000838897/file/se580d995e5154a24adb8c8d8ffe9eb8_c9f5d1f0367a4f91aab8a3eee81403af_grande.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mau7",
+    "price": "23 triệu VND",
+    "image": "https://noidia.b-cdn.net/products/43084065585/165810-thumbnail-4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mau8",
+    "price": "25 triệu VND",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCGnYDtaMMNKEixISCC-L40g6ZkLsCe1atg&s"
+  },
+  {
+    "id": 9,
+    "name": "Mau9",
+    "price": "35 triệu VND",
+    "image": "https://product.hstatic.net/200000417685/product/db5fefa47e4f44eb852a457baf051de6_03a13547fa4b409989a099b15cd8cb00_grande.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mau10",
+    "price": "36 triệu VND",
+    "image": "https://store.bbcosplay.com/news/2022/12/16/top-5-nhung-mau-gundam-dep-nhat2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mau11",
+    "price": "33 triệu VND",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBYFA7gGga34d3QBOgtU89nvnQclvBBPph7F0XHAjyFTHjx5YFIchUdRXRa0-6LPLijM&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "name": "Mau12",
+    "price": "30 triệu VND",
+    "image": "https://gd4.alicdn.com/imgextra/i4/1982692005/TB2NaIQaBDH8KJjSszcXXbDTFXa-1982692005.jpg_400x400.jpg_.webp"
+  },
+  {
+    "id": 13,
+    "name": "Mau13",
+    "price": "37 triệu VND",
+    "image": "https://file.hstatic.net/1000231532/file/mo_hinh_gundam_rx-93_nu_gundam_ver_ka_chinh_hang_bandai_viet_nam_5f398470786c4f7da0d7d7af4a9a6b02_grande.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mau14",
+    "price": "55 triệu VND",
+    "image": "https://i.pinimg.com/originals/e5/f5/4e/e5f54e233a3a5bdc8acfff81d7eaed9d.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Mau15",
+    "price": "43 triệu VND",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXH9P4-z46jPqajJIf7CJ5LV77-DWb8eysw&s"
+  },
+  {
+    "id": 16,
+    "name": "Mau16",
+    "price": "40 triệu VND",
+    "image": "https://symbols.vn/wp-content/uploads/2022/02/Hinh-Gundam-dep-ngau.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mau17",
+    "price": "42 triệu VND",
+    "image": "https://i.pinimg.com/550x/42/3b/ae/423bae68d61f2c80872178a67d610e6f.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mau18",
+    "price": "44 triệu VND",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8zuDC7ZEF16wmbRkLL3ZfBtPY0OAORLxGhnN-IAWLJsCxOypT0IKlm0_YQBGltVyp0A&usqp=CAU"
+  }
+]
